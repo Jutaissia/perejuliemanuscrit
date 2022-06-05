@@ -1,0 +1,175 @@
+
+body {
+   background: #1B1547;
+	margin-top: 10px ;
+	margin-bottom: 20px;
+	margin-left: 10px ;
+	margin-right: 10px ;
+   font-family: 'Parisienne', cursive;
+}
+	
+
+
+
+h1 {
+   color: black;
+   font-size: 50px;
+   background: white;
+}
+
+h2 {
+	color: white;
+   font-size: 30px;
+   text-align: center;
+   font-family: 'Cormorant Garamond', serif;
+}
+
+
+
+p {
+	color: white;
+   font-size: 25px;
+   text-align: justify;
+   margin-left: 10px ;
+	margin-right: 10px ;
+   margin-bottom: 20px;
+   font-family: 'Cormorant Garamond', serif;
+}
+
+
+h3 {
+	color: white;
+   font-size: 30px;
+   text-align: center;
+   font-family: 'Cormorant Garamond', serif;
+}
+
+h4 {
+	color: white;
+   font-size: 30px;
+   text-align: center;
+   font-family: 'Cormorant Garamond', serif;
+}
+
+h5 {
+	color: white;
+   font-size: 30px;
+   text-align: center;
+	font-family: 'Cormorant Garamond', serif;
+}
+
+ol {
+	color: white;
+   font-size: 20px;
+   text-align: left;
+   font-family: 'Cormorant Garamond', serif;
+}
+
+a{
+	 font-family: 'Cormorant Garamond', serif;
+	 text-align: center;
+
+	}
+
+
+
+.fille-dessine {
+	width: 250px;
+	height: 250px;
+	object-fit: cover;
+}
+
+
+
+.application-draw {
+ width: 700px;
+ height: 300px;
+ object-fit: cover;
+
+
+}
+
+.center-content{
+	text-align: center;
+	color: white;
+}
+
+
+
+
+div { 
+	background: black;
+}
+
+ .logo 
+
+.element-aligned{
+	display: flex;
+	justify-content: space-around ;
+}
+
+
+.link-aligned {
+ 	display: flex;
+ 	justify-content: space-around;
+ 	padding: 2%;
+ 	border: 2px solid white;
+
+}
+a { 
+	color: white;
+	}
+
+a:hover {
+	color: fuchsia;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.navbar {
+  align-items: flex-end;
+  display: flex;
+  justify-content: flex-start;
+ padding: 0,1%;
+ border: 1px solid white;
+ 
+}
+
+
+.link {
+  margin: 10px 10px;
+  color: white;
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+  
+
+}
+
+.link:hover {
+  color: fuchsia;
+}
+
+.application {  width: 100px;
+ height: 100px;
+ object-fit: contain;
+ justify-content: space-around;
+
+
+
+}
+
+
+ { 
+
+
+}
